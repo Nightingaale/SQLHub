@@ -5,6 +5,13 @@
 - **Hibernate**
 - **PostgreSQL**
 
+## Information for PostgreSQL
+- **Host: localhost**
+- **port: 5433**
+- **passsword: postgres**
+- **user: postgres**
+
+
 ## Clone the repository
   
    ``` bash
