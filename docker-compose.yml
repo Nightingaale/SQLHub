@@ -1,6 +1,6 @@
 services:
     postgresql:
-      container_name: registration-service-postgresql
+      container_name: registration-service-postgres
       image: postgres:17.2-alpine3.20
       restart: always
       env_file:
