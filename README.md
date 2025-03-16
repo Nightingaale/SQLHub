@@ -4,13 +4,12 @@
 - **Gradle**
 - **Hibernate**
 - **PostgreSQL**
+- **Docker**
   
-## Information for PostgreSQL 
-- **Host**: localhost
-- **port**: 5433
-- **passsword**: postgres
-- **user**: postgres
-
+## Information for Docker-compose
+``` bash
+docker compose up
+```
 ## Clone the repository 
 ``` bash  
 git clone https://github.com/Nightingaale/SQLHub.git
