@@ -6,7 +6,7 @@
 - **PostgreSQL**
 - **Docker**
   
-## How to download repository:
+## Information for repository:
 
 1. **Clone the repository**
 ``` bash  
