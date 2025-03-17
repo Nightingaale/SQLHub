@@ -6,7 +6,7 @@
 - **PostgreSQL**
 - **Docker**
   
-## Information for repository:
+## Information for the repository:
 
 1. **Clone the repository**
 ``` bash  
