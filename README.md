@@ -6,11 +6,13 @@
 - **PostgreSQL**
 - **Docker**
   
-## Clone the repository 
+## How to download repository:
+
+1. Clone the repository
 ``` bash  
 git clone https://github.com/Nightingaale/SQLHub.git
 ```
-
+2. Find directory
 ``` bash
 cd ~/SQLHub
 ```
