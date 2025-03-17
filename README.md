@@ -9,10 +9,13 @@
 ## Clone the repository 
 ``` bash  
 git clone https://github.com/Nightingaale/SQLHub.git
-cd ~/SQLHub
-``` 
+```
 
-## Information for Docker-compose (PostgreSQL settings)
 ``` bash
-docker compose up
+cd ~/SQLHub
+```
+
+## Information for Docker (PostgreSQL settings)
+``` bash
+docker compose up -d
 ```
