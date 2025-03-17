@@ -8,11 +8,11 @@
   
 ## How to download repository:
 
-1. Clone the repository
+1. **Clone the repository**
 ``` bash  
 git clone https://github.com/Nightingaale/SQLHub.git
 ```
-2. Find directory
+2. **Find directory**
 ``` bash
 cd ~/SQLHub
 ```
