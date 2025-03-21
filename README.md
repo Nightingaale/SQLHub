@@ -12,9 +12,15 @@
 ``` bash  
 git clone https://github.com/Nightingaale/SQLHub.git
 ```
+
 2. **Find directory**
 ``` bash
 cd ~/SQLHub
+```
+
+3. **Build the project**
+``` bash
+./gradlew build
 ```
 
 ## Information for Docker (PostgreSQL settings)
