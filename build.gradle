@@ -8,6 +8,14 @@ java {
     }
 }
 
+jar {
+    manifest {
+        attributes(
+                'Main-Class': 'Registration'
+        )
+    }
+}
+
 group = 'org.example'
 version = "1.0-SNAPSHOT"
 
