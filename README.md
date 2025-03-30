@@ -1,6 +1,6 @@
 ## Technology  
 
-- **Java(+17)**
+- **Java(17)**
 - **Gradle**
 - **Hibernate**
 - **PostgreSQL**
@@ -23,7 +23,7 @@ cd ~/SQLHub
 ./gradlew build
 ```
 
-## Information for Docker (PostgreSQL settings)
+## Information for Docker
 ``` bash
 docker compose up -d
 ```
