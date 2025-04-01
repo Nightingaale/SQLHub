@@ -1,4 +1,4 @@
-## Technology  
+## Technologies 
 
 - **Java(17)**
 - **Gradle**
