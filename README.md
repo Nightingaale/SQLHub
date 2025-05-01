@@ -18,12 +18,14 @@ git clone https://github.com/Nightingaale/SQLHub.git
 cd ~/SQLHub
 ```
 
-3. **Build the project**
+3. Configure to your needs hibernate.cfg.xml & .env files
+
+4. **Build the project**
 ``` bash
 ./gradlew build
 ```
 
-## Information for Docker
+5. Start docker-compose 
 ``` bash
 docker compose up -d
 ```
